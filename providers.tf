@@ -6,7 +6,3 @@ terraform {
     }
   }
 }
-
-provider "oci" {
-  # Configuration options
-}
